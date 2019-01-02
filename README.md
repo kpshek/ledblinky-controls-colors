@@ -13,7 +13,7 @@ From the archive.org snapshot:
 
 ## colors.ini
 
-colors.ini originated (as far as I can tell) from [LEDBlinky]((https://www.ledblinky.net)), a great piece of software that controls your arcade LEDs. It has been used as the basis for other similar color configuration files/utilities.
+colors.ini was originally [created by headkaze](http://forum.arcadecontrols.com/index.php?topic=61354.0) and is now hosted by [LEDBlinky]((https://www.ledblinky.net)), a great piece of software that controls your arcade LEDs. It has been used as the basis for other similar color configuration files/utilities.
 
 ## Purpose
 
